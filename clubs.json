@@ -1,0 +1,75 @@
+{
+  "hubName": "Maharshi Tinkering Hub",
+  "clubs": [
+    {
+      "id": "lab_aws",
+      "name": "AWS Cloud Lab",
+      "shortDesc": "AWS Certifications & Cloud",
+      "description": "Lab - 103. We provide certifications for: AWS Cloud Foundations, AWS Cloud Practitioner, AWS AI practitioner, AWS Data Engineer associate, AWS Solution Architect, AWS Sysops Administrator, AWS Machine Learning Engineer Associate, AWS Machine Learning Speciality, AWS Security Speciality, AWS Developer Associate.",
+      "lead": "TBD",
+      "contact": "TBD",
+      "meetings": "Lab - 103",
+      "howToJoin": "Contact the lab for certification details."
+    },
+    {
+      "id": "lab_google",
+      "name": "Google NXT HUB",
+      "shortDesc": "Hands-on workshops",
+      "description": "Hands-on workshops, technical sessions, and community learning with Google technologies.",
+      "lead": "TBD",
+      "contact": "TBD",
+      "meetings": "TBD",
+      "howToJoin": "Walk into the lab to join the workshops."
+    },
+    {
+      "id": "lab_iot",
+      "name": "IoT Lab",
+      "shortDesc": "Hands-on IoT projects",
+      "description": "Lab no. 106. Features workstations, hands-on IoT projects, and expert mentorship.",
+      "lead": "TBD",
+      "contact": "TBD",
+      "meetings": "Lab 106",
+      "howToJoin": "Visit Lab 106 for mentorship and workstation access."
+    },
+    {
+      "id": "lab_arvr",
+      "name": "AR/VR Lab",
+      "shortDesc": "AR/VR headsets & dev",
+      "description": "Workstations, AR/VR headsets, and expert mentorship for developing immersive experiences.",
+      "lead": "TBD",
+      "contact": "TBD",
+      "meetings": "TBD",
+      "howToJoin": "Reach out to the mentors to access the AR/VR headsets."
+    },
+    {
+      "id": "lab_network",
+      "name": "Networking Lab",
+      "shortDesc": "Lab 108",
+      "description": "Lab 108 - Networking lab for hands-on network configuration and infrastructure learning.",
+      "lead": "TBD",
+      "contact": "TBD",
+      "meetings": "Lab 108",
+      "howToJoin": "Visit Lab 108."
+    },
+    {
+      "id": "lab_cyber",
+      "name": "Cyber Security Lab",
+      "shortDesc": "Linux certs & Security",
+      "description": "Lab 104. Focuses on cyber security and offers certifications on Linux.",
+      "lead": "TBD",
+      "contact": "TBD",
+      "meetings": "Lab 104",
+      "howToJoin": "Visit Lab 104 to learn more about Linux certifications."
+    },
+    {
+      "id": "club_redhat",
+      "name": "Red Hat Community Club",
+      "shortDesc": "Linux, Cloud, DevOps",
+      "description": "A student-driven technical community that promotes Linux, Open Source, Cloud, DevOps, Automation, Containers, and Enterprise IT technologies. We have an official partnership with Red Hat Academy, providing industry-aligned training and hands-on labs. Popular certifications: rh124, rh134, RHCSA.",
+      "lead": "TBD",
+      "contact": "TBD",
+      "meetings": "TBD",
+      "howToJoin": "Join the Red Hat Academy ecosystem for globally recognized certification pathways."
+    }
+  ]
+}
