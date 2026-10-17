@@ -1,5 +1,7 @@
 # Tinkering Hub WhatsApp Bot 🤖
 
+![Status](https://img.shields.io/badge/status-prototype-0969da?style=flat-square)
+
 A free WhatsApp bot for your college's Tinkering Hub. Students message it and get an interactive menu of all clubs — tap a club to see what it does, when it meets, and how to join.
 
 Built on the **official WhatsApp Cloud API** (free) + Node.js/Express.
